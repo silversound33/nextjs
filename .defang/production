@@ -1,0 +1,2 @@
+DEFANG_PROVIDER="gcp"
+GCP_PROJECT_ID="second-sandbox-488622-k6"
